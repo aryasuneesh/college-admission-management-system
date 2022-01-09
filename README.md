@@ -1,5 +1,7 @@
-# college-admission-management-system
+# College Admission Management System
 A simple Tkinter project for managing the applications of incoming students at a college.
+
+Traditional college admission is a hectic process, which involves students visiting off-site campus, taking application, filling it and then submission is another hectic process. This college admission system will help make the process easier for all. We can generate the cut off marks for all the streams. Students are expected to register on the website and apply with required information. College can register admissions of new students. College can make a final list after comparing the entered scores and the cut off. There are 2 main parts in this system namely admin (college) and user (students). Admin can add college details and cut off list, they can select students, register and also view the final list of students. Users (Students) can login, register, view the college details, they can also apply and get notification if they are selected. 
 
 ## Languages used
 
@@ -51,3 +53,12 @@ A simple Tkinter project for managing the applications of incoming students at a
 
 ### Edit Cutoff Details
 ![Picture12](https://user-images.githubusercontent.com/68789441/148671432-e9956394-f3e0-43d5-8917-a0b047437efa.png)
+
+# Bibliography
+•	https://shsu-ir.tdl.org/shsu-ir/bitstream/handle/20.500.11875/1164/0781.pdf?sequence=1
+
+•	https://ieeexplore.ieee.org/document/6208293/
+
+•	https://cbsetoday.com/100-cpp-projects-source-code-output/
+
+# Created by Arya Suneesh, Devika Menon and Aedna Mary
